@@ -44,4 +44,21 @@ body hr {
   margin-top: -15px;
   margin-bottom: -5px;
 }
+
+body ul {
+  padding-left: 0px;
+  margin-top: 20px;
+}
+
+body li {
+  padding: 2px 0px;
+  font-size: 13px;
+  display: block;
+}
+
+body .dishes {
+  margin-top: 4px;
+  padding-left: 10px;
+  border-left: solid 2px #FF6B6B;
+}
 /*# sourceMappingURL=style.css.map */
